@@ -1,0 +1,9 @@
+# NodeJS
+node_modules
+
+# Target
+dist
+
+# Idea
+.idea
+*.iml
